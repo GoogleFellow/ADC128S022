@@ -6,6 +6,7 @@
 *	Create Date		:	2017-3-31
 *	Revision		   :	v1.0
 *	Description		:  ADC adc128s022驱动设计
+http://www.ti.com.cn/product/cn/ADC128S022
 **************************************************/
 
 module adc128s022(
